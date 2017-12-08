@@ -3,3 +3,6 @@
 ################################################################################
 
 /GitCheck/.vs/GitCheck/v15/Server/sqlite3/storage.ide-wal
+/GitCheck/.vs/GitCheck/v15/Server/sqlite3/storage.ide-shm
+/GitCheck/.vs/GitCheck/v15/Server/sqlite3/storage.ide
+/GitCheck/.vs/GitCheck/v15/Server/sqlite3/db.lock
